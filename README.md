@@ -1,5 +1,12 @@
 # Giveaway-bot-commande
-All commandes
-https://discordapp.com/channels/687272272192733227/687299653083070654/687299943085506602
+
+##commandes<img src='./examples/start-cmd.png' style="width: 50%;"></img>
+<img src='./examples/giveaway.png' style="width: 50%;"></img>
 
 
+* `start-giveaway` command
+* `reroll-giveaway` command
+* `end-giveaway` command
+
+<img src='./examples/start-cmd.png' style="width: 50%;"></img>
+<img src='./examples/giveaway.png' style="width: 50%;"></img>
